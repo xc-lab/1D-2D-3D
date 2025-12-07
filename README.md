@@ -23,3 +23,5 @@ About 3D CNN.
 2.	run ./3D-CNN/train.py to train CNN model;
 3.	run ./3D-CNN/test.py to test the trained model. 
 
+## Model Architecture
+<img src="https://github.com/xc-lab/1D-2D-3D/blob/main/data/test_data/chapt3_figure5-1.jpg" width="600">
