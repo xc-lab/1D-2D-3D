@@ -2,7 +2,7 @@
 How to set raw dataset.
 Please put the data folder in the subdirectory of the corresponding dimension folder.
 
-<img src="https://github.com/xc-lab/1D-2D-3D/blob/main/data/test_data/chapt3_figure3(a)-1.jpg" width="300"><img src="https://github.com/xc-lab/1D-2D-3D/blob/main/data/test_data/chapt3_figure3(b)-1.jpg" width="300"><img src="https://github.com/xc-lab/1D-2D-3D/blob/main/data/test_data/chapt3_figure3(c)-1.jpg" width="300">
+<img src="https://github.com/xc-lab/1D-2D-3D/blob/main/data/test_data/chapt3_figure3(a)-1.jpg" width="200"><img src="https://github.com/xc-lab/1D-2D-3D/blob/main/data/test_data/chapt3_figure3(b)-1.jpg" width="200"><img src="https://github.com/xc-lab/1D-2D-3D/blob/main/data/test_data/chapt3_figure3(c)-1.jpg" width="200">
 
 
 ## Getting Started
