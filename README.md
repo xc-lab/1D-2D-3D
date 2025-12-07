@@ -1,7 +1,10 @@
-# 1D-2D-3D
+# 1D-2D-3D Comparison
 How to set raw dataset.
 Please put the data folder in the subdirectory of the corresponding dimension folder.
 
+<img src="https://github.com/xc-lab/1D-2D-3D/tree/main/data/test_data/chapt3_figure3(a)-1.jpg" alt="Image text" width="300">
+
+## Getting Started
 How to run code.
 
 About 1D CNN.
